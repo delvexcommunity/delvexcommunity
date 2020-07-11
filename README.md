@@ -19,7 +19,7 @@ Whether you're a beginner wanting to contribute to open source or a software dev
 ## PARTICIPATE IN THE COMMUNITY:
 <a href="https://github.com/delvexcommunity/delvexcommunity">Register</a> yourself here to be a member of community and open discussions.<br>
 <b>Looking for more information?</b> Visit <a href="https://github.com/delvexcommunity/delvexcommunity">Website_Link</a><br>
-<b>Stuck/Need help?</b> Visit <link> to get support from our team.      
+<b>Stuck/Need help?</b> Visit <a href="https://github.com/delvexcommunity/delvexcommunity">Forum</a> to get support from our team.      
 
 ## CODE OF CONDUCT:
 <ul>
