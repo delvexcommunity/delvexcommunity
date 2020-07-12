@@ -5,7 +5,7 @@
 [![Meetup Badge](https://img.shields.io/badge/-DelvexCommunity-orange?style=flat-square&logo=Meetup&logoColor=white&link=https://www.meetup.com/members/312437982/)](https://www.meetup.com/members/312437982/)
 [![Facebook Badge](https://img.shields.io/badge/DelvexCommunity-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/DelveX-109732884137907)](https://www.facebook.com/DelveX-109732884137907)
 [![Youtube Badge](https://img.shields.io/badge/DelvexChannel-c13138?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCVx2ZvskbDkHpLlYEQ9FULw)](https://www.youtube.com/channel/UCVx2ZvskbDkHpLlYEQ9FULw)
-[![Instagram Badge](https://img.shields.io/badge/Delvex-c15453?style=flat-square&logo=Instagram&logoColor=white&link=delvex.io)](delvex.io)
+[![Instagram Badge](https://img.shields.io/badge/Delvex-c15453?style=flat-square&logo=Instagram&logoColor=white&link=delvex.io)](https://www.instagram.com/delvex.io/)
 
 ---
 ## Hi there 👋, Welcome to the Delvex community!          
