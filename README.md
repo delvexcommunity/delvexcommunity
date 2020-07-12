@@ -1,6 +1,12 @@
 # DELVEX
-[![Twitter Badge](https://img.shields.io/badge/-@DELVEX-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/delvexcommunity)](https://twitter.com/delvexcommunity) [![Linkedin Badge](https://img.shields.io/badge/-DELVEX-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/delvexcommunity/)](https://www.linkedin.com/company/delvexcommunity/)
+[![Twitter Badge](https://img.shields.io/badge/-@DELVEX-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/delvexcommunity)](https://twitter.com/delvexcommunity)
+[![Linkedin Badge](https://img.shields.io/badge/-DELVEX-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/delvexcommunity/)](https://www.linkedin.com/company/delvexcommunity/)
 [![Gmail Badge](https://img.shields.io/badge/-delvexcommunity@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delvexcommunity@gmail.com)](mailto:delvexcommunity@gmail.com)
+[![Meetup Badge](https://img.shields.io/badge/-DelvexCommunity-orange?style=flat-square&logo=Meetup&logoColor=white&link=https://www.meetup.com/members/312437982/)](https://www.meetup.com/members/312437982/)
+[![Facebook Badge](https://img.shields.io/badge/DelvexCommunity-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/DelveX-109732884137907)](https://www.facebook.com/DelveX-109732884137907)
+[![Youtube Badge](https://img.shields.io/badge/DelvexChannel-c13138?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCVx2ZvskbDkHpLlYEQ9FULw)](https://www.youtube.com/channel/UCVx2ZvskbDkHpLlYEQ9FULw)
+[![Instagram Badge](https://img.shields.io/badge/Delvex-c15453?style=flat-square&logo=Instagram&logoColor=white&link=delvex.io)](delvex.io)
+
 ---
 ## Hi there 👋, Welcome to the Delvex community!          
 We are evolving a community of tech enthusiasts ranging from those “who have just started” to those “who have built their entire career around it”.Our community is extensive, diverse, collaborative and contributes to the ever increasing open source knowledgebase.
